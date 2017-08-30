@@ -8,7 +8,7 @@ three case forms in both uppercase and lowercase. Includes an option to
 flag to turn off xspace, and a silly option for replacing all pronouns
 with 'they/them/their'.
 
-Copyright 2011 by Alan Munn
+Copyright 2011,2013, 2016 by Alan Munn
 
 This package may be distributed and/or modified under the conditions of
 the LaTeX Project Public License, either version 1.3 of this license or
@@ -23,4 +23,4 @@ The Current Maintainer of this package is Alan Munn.
 This package consists of the file he-she.sty and documentation files
 he-she.tex and he-she.pdf
 
-Version 1.0 2011/02/13
+Version 1.3 2016/06/06
